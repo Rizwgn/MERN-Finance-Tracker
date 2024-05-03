@@ -1,4 +1,4 @@
-🚀 MERN-Finance-Tracker 🚀
+🚀MERN-Finance-Tracker🚀
 
 Overview:
 
